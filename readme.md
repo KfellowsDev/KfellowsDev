@@ -37,7 +37,7 @@ I'm a young aspiring developer taking my first steps into the programming world.
 
 ### **Contact Me**  
 <div align="center">
-  <a href="mailto:turnanzs@gmail.com">
+  <a href="mailto:contact@kfellows.is-a.dev">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="Gmail logo" />
   </a>
 
